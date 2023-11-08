@@ -30,5 +30,4 @@ We want to look across multiple independent variables, like number of credit car
 <h3>Data Source:</h3>
 
 <li>https://www.kaggle.com/datasets/parisrohan/credit-score-classification</li>
-<li>cleaned: https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification/data</li>
 
