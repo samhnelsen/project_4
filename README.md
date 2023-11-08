@@ -23,7 +23,7 @@ We want to look across multiple independent variables, like number of credit car
   <li>Number of credit cards</li>
   <li>Number of delayed payments</li>
   <li>Interest rate</li>
-  <li>Monthly income</l>li>
+  <li>Monthly income</li>
   <li>Loan types</li>
 
 
